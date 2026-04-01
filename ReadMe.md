@@ -33,7 +33,7 @@ Add Sentinel to your `Package.swift` or via Xcode (File > Add Packages...):
 
 ```swift
 dependencies: [
-    .package(url: "[https://github.com/your-org/Sentinel.git](https://github.com/your-org/Sentinel.git)", from: "1.0.0")
+    .package(url: "[https://github.com/cliff-gor/Sentinel.git](https://github.com/cliff-gor/Sentinel.git)", from: "1.0.0")
 ]
 ```
 

@@ -1,13 +1,14 @@
 # Sentinel
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.9+-orange.svg?style=flat" alt="Swift 5.9+">
-    <img src="https://img.shields.io/badge/Platforms-iOS%2016%2B%20%7C%20macOS%2013%2B-lightgray.svg?style=flat" alt="Platforms: iOS 16+ | macOS 13+">
-    <a href="https://github.com/cliff-gor/Sentinel/releases">
-        <img src="https://img.shields.io/github/v/release/cliff-gor/Sentinel?color=blue&style=flat" alt="Latest Release">
+    <a href="https://swiftpackageindex.com/cliff-gor/Sentinel">
+        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dswift-versions" alt="Swift Package Index Versions">
     </a>
     <a href="https://swiftpackageindex.com/cliff-gor/Sentinel">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dswift-versions" alt="Swift Package Index">
+        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dplatforms" alt="Swift Package Index Platforms">
+    </a>
+    <a href="https://github.com/cliff-gor/Sentinel/releases">
+        <img src="https://img.shields.io/github/v/release/cliff-gor/Sentinel?color=blue&style=flat" alt="Latest Release">
     </a>
 </p>
 

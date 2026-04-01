@@ -1,26 +1,30 @@
 // swift-tools-version: 6.2
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
     name: "Sentinel",
+    platforms: [
+        .iOS(.v16),
+        .macOS(.v13) // Good practice to include macOS for local tool building
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
+        // Products define the executables and libraries a package produces
         .library(
             name: "Sentinel",
-            targets: ["Sentinel"]
-        ),
+            targets: ["Sentinel"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
+        // Targets are the basic building blocks of a package.
         .target(
-            name: "Sentinel"
-        ),
+            name: "Sentinel",
+            dependencies: [],
+            path: "Sources/Sentinel"), // Explicitly point to your Sources folder
         .testTarget(
             name: "SentinelTests",
-            dependencies: ["Sentinel"]
-        ),
+            dependencies: ["Sentinel"],
+            path: "Tests/SentinelTests"),
     ]
 )

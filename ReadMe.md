@@ -2,16 +2,14 @@
 
 <p align="center">
     <a href="https://swiftpackageindex.com/cliff-gor/Sentinel">
-        [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/cliff-gor/Sentinel)
+        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dswift-versions&style=flat" alt="Swift Package Index Versions">
     </a>
     <a href="https://swiftpackageindex.com/cliff-gor/Sentinel">
-       [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/cliff-gor/Sentinel)
+        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcliff-gor%2FSentinel%2Fbadge%3Ftype%3Dplatforms&style=flat" alt="Swift Package Index Platforms">
     </a>
     <a href="https://github.com/cliff-gor/Sentinel/releases">
         <img src="https://img.shields.io/github/v/release/cliff-gor/Sentinel?color=blue&style=flat" alt="Latest Release">
     </a>
-    
-    
 </p>
 
 **Sentinel** is a lightweight, zero-dependency Swift Package designed to provide drop-in network observability and chaos engineering for high-stakes iOS applications. 

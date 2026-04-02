@@ -125,9 +125,4 @@ Sentinel is fully unit-tested using the modern `Swift Testing` framework. To run
 
 Mock engines are provided out-of-the-box to ensure Sentinel tests do not hit live servers.
 
----
 
-### How to use this README
-Create a file named `README.md` at the very root of your Sentinel package folder (right next to your `Package.swift` file) and paste this text in. 
-
-When you upload this to your Git repository, this will be the front page your team sees. It clearly demonstrates that you are thinking about the **developer experience**, not just the code itself!
